@@ -5,4 +5,4 @@ Este es un portfolio creado con HTML, CSS y Javascript.
 **Andres Millapan**
 
 ##Ver ejemplo en vivo
-- [https://xplooid.github.io/mi-portfolio/](https://xplooid.github.io/mi-portfolio/)
+- [https://xplooid.github.io/mi-portfolio/] (https://xplooid.github.io/mi-portfolio/)
