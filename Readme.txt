@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+##Descripcion
+Este es un portfolio creado con HTML, CSS y Javascript.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Autor
+**Andres Millapan**
+
+##Ver ejemplo en vivo
+- [https://xplooid.github.io/mi-portfolio/](https://xplooid.github.io/mi-portfolio/)
